@@ -46,9 +46,9 @@ p_fei_shou
 ```
 
 
-    
-<img src="md_figure/output_8_0.png"/>
-    
+​    
+<img src="md_figure/output_8_0.png" alt="work"/>
+​    
 
 ### Figure 5C
 
@@ -70,9 +70,9 @@ p_line_13_48M_54M_plot
 ```
 
 
-    
+​    
 <img src="md_figure/output_11_0.png"/>
-    
+​    
 
 ### Figure 5D
 
@@ -94,9 +94,9 @@ p_line_15_2M_6M_plot
 ```
 
 
-    
+​    
 <img src="md_figure/output_14_0.png"/>
-    
+​    
 
 
 ### Figure 5E
@@ -141,9 +141,9 @@ lineData_heatmap_chr13_51522935_51863333 %>% t() %>%
 ```
 
 
-    
+​    
 <img src="md_figure/output_18_0.png"/>
-    
+​    
 
 
 ### Figure 5F
@@ -177,9 +177,9 @@ lineData_heatmap_chr15_4140512_4167000 %>% t() %>%
 ```
 
 
-    
+​    
 <img src="md_figure/output_21_0.png"/>
-    
+​    
 
 
 ### Figure 6
@@ -253,7 +253,7 @@ p_tailFat <- ggplot(final_data,aes(x=POS,y=p_value,colour=CHR))+
 p_tailFat
 ```
 
-    
+
 <img src="md_figure/output_29_0.png"/>
     
 
@@ -286,9 +286,9 @@ p_tailFatCarcass
 ```
 
 
-    
+​    
 <img src="md_figure/output_32_0.png"/>
-    
+​    
 
 
 ### Figure 7
@@ -319,7 +319,7 @@ pinlv_51760995 <- ggplot(mydata_51760995,aes(variable, value),position="stack") 
 pinlv_51760995
 ```
 
-    
+
 <img src="md_figure/output_36_0.png"/>
     
 
@@ -351,7 +351,7 @@ pinlv_51825895
 ```
 
 
-    
+​    
 <img src="md_figure/output_39_0.png"/>
-    
+​    
 
